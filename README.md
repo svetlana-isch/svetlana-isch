@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🎓CMC MSU'26
+🔎Analytics, Data Science and more
+🥤Iced latte enthusiast
 <!--
 **svetlana-isch/svetlana-isch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
