@@ -1,9 +1,13 @@
 ## Hi there 👋
-🎓CMC MSU'26
+🎓CMC MSU'26, Mathematical statistics department
 
 🔎Analytics, Data Science and more
 
-🥤Iced latte enthusiast
+📫 How to reach me:
+
+email: veta04@yandex.ru
+
+telegram: @achpochmaki
 <!--
 **svetlana-isch/svetlana-isch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
